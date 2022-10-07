@@ -7,4 +7,4 @@
 - 🥋 I’m comfortable with advanced analytics models such as deep learning algorithms, gradient boosting, ensemble modeling and image recognition. 
 - 💬 Ask me about Trading, Quantitative Finance, Machine learning.
 - 📫 How to reach me: https://www.linkedin.com/in/luizgabrielbongiolo/
--->
+
