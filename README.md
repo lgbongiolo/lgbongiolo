@@ -8,5 +8,5 @@
 - 💬 Ask me about Trading, Quantitative Finance and Machine learning.
 - 📫 How to reach me: https://www.linkedin.com/in/luizgabrielbongiolo/
 
- ![](https://i.gifer.com/3HeO.gif)
+
  
