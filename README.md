@@ -2,11 +2,10 @@
 
 
 - 🔭 Expertise in developing advanced quantitative trading strategies using machine learning techniques, mathematical modeling, feature selection and feature engineering
-- 🤖 Currently working on multi-agent AI systems using LangChain / LangGraph for intelligent automation and decision architectures.
+- 🌱 Currently building multi-agent AI systems using LangGraph for intelligent autonomous financial analysis, reinforcement learning–based portfolio allocation, research automation.
 - 🥋 I’m comfortable with advanced analytics models such as Deep Learning algorithms, Gradient Boosting, Ensemble modeling and Time-Series Forecasting. 
 - 🥇 Top 5% Best Trading Algorithms in Darwinex - Prize: 30K Allocation - Feb 2024. 
 - 🥇 Lead trader of the best Brazilian team at Binance 2020 trading competition. 1st in Brazil, 53rd Global Position.
-- 🌱 Currently building multi-agent AI systems, autonomous financial analysis, reinforcement learning–based portfolio allocation, and LLM-powered research automation.
 - 💬 Ask me about Trading, Quantitative Finance, Machine Learning, AI Agents, and Forecasting Systems.
 - 📫 How to reach me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizgabrielbongiolo) 
